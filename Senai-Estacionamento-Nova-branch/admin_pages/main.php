@@ -56,7 +56,7 @@
 
                 <br><br>
 
-                <a href=".\insert_news.php"><button>Inserir Noticia</button></a>
+                <a href=".\news_insert.php"><button>Inserir Noticia</button></a>
                 <a href="..\index.php"><button>Index</button></a>
                 <a href="..\ops\gerencia_carros.php?op=atualizacao"><button>Atualização carros</button></a>
                 <a href="..\ops\op_login.php?op=deslogar"><button>Deslogar</button></a>
